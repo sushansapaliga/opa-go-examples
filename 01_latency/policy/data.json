@@ -1,0 +1,1604 @@
+{
+  "role_definitions": [
+    {
+      "ability": "ability_1",
+      "grants": [
+        "grant_1",
+        "grant_2"
+      ]
+    },
+    {
+      "ability": "ability_2",
+      "grants": [
+        "grant_3",
+        "grant_4",
+        "grant_5"
+      ]
+    },
+    {
+      "ability": "ability_2",
+      "grants": [
+        "grant_6",
+        "grant_7"
+      ]
+    },
+    {
+      "ability": "gen_ability_0",
+      "grants": [
+        "gen_grant_0_qjh"
+      ]
+    },
+    {
+      "ability": "gen_ability_1",
+      "grants": [
+        "gen_grant_1_hlb",
+        "gen_grant_1_ebi",
+        "gen_grant_1_ygn"
+      ]
+    },
+    {
+      "ability": "gen_ability_2",
+      "grants": [
+        "gen_grant_2_gbe",
+        "gen_grant_2_yhe",
+        "gen_grant_2_qxh",
+        "gen_grant_2_xjn",
+        "gen_grant_2_zmt"
+      ]
+    },
+    {
+      "ability": "gen_ability_3",
+      "grants": [
+        "gen_grant_3_urj",
+        "gen_grant_3_xjq"
+      ]
+    },
+    {
+      "ability": "gen_ability_4",
+      "grants": [
+        "gen_grant_4_vvb",
+        "gen_grant_4_jeo",
+        "gen_grant_4_tyh",
+        "gen_grant_4_obt",
+        "gen_grant_4_ebs",
+        "gen_grant_4_ija",
+        "gen_grant_4_iwv"
+      ]
+    },
+    {
+      "ability": "gen_ability_5",
+      "grants": [
+        "gen_grant_5_gny",
+        "gen_grant_5_zkz"
+      ]
+    },
+    {
+      "ability": "gen_ability_6",
+      "grants": [
+        "gen_grant_6_koz",
+        "gen_grant_6_ces",
+        "gen_grant_6_vpc",
+        "gen_grant_6_yyp",
+        "gen_grant_6_apk",
+        "gen_grant_6_nbf"
+      ]
+    },
+    {
+      "ability": "gen_ability_7",
+      "grants": [
+        "gen_grant_7_coi",
+        "gen_grant_7_vua",
+        "gen_grant_7_ifn",
+        "gen_grant_7_qmh",
+        "gen_grant_7_loj"
+      ]
+    },
+    {
+      "ability": "gen_ability_8",
+      "grants": [
+        "gen_grant_8_awn"
+      ]
+    },
+    {
+      "ability": "gen_ability_9",
+      "grants": [
+        "gen_grant_9_ibr",
+        "gen_grant_9_bvl",
+        "gen_grant_9_rjv",
+        "gen_grant_9_hmm",
+        "gen_grant_9_exj",
+        "gen_grant_9_qbm",
+        "gen_grant_9_oxv",
+        "gen_grant_9_uil",
+        "gen_grant_9_wfu",
+        "gen_grant_9_zbk"
+      ]
+    },
+    {
+      "ability": "gen_ability_10",
+      "grants": [
+        "gen_grant_10_xde",
+        "gen_grant_10_jui",
+        "gen_grant_10_ovv",
+        "gen_grant_10_utk"
+      ]
+    },
+    {
+      "ability": "gen_ability_11",
+      "grants": [
+        "gen_grant_11_tew",
+        "gen_grant_11_uwu",
+        "gen_grant_11_sdt"
+      ]
+    },
+    {
+      "ability": "gen_ability_12",
+      "grants": [
+        "gen_grant_12_sqi",
+        "gen_grant_12_odd",
+        "gen_grant_12_oeq",
+        "gen_grant_12_rtv",
+        "gen_grant_12_bpb",
+        "gen_grant_12_mrm",
+        "gen_grant_12_wrn",
+        "gen_grant_12_uod",
+        "gen_grant_12_pxw"
+      ]
+    },
+    {
+      "ability": "gen_ability_13",
+      "grants": [
+        "gen_grant_13_ypl",
+        "gen_grant_13_tjv",
+        "gen_grant_13_kna",
+        "gen_grant_13_syy",
+        "gen_grant_13_jcl",
+        "gen_grant_13_cil"
+      ]
+    },
+    {
+      "ability": "gen_ability_14",
+      "grants": [
+        "gen_grant_14_uha",
+        "gen_grant_14_fdr",
+        "gen_grant_14_bwx",
+        "gen_grant_14_lym",
+        "gen_grant_14_bjq",
+        "gen_grant_14_yom",
+        "gen_grant_14_tol",
+        "gen_grant_14_ean",
+        "gen_grant_14_tkz"
+      ]
+    },
+    {
+      "ability": "gen_ability_15",
+      "grants": [
+        "gen_grant_15_lkx"
+      ]
+    },
+    {
+      "ability": "gen_ability_16",
+      "grants": [
+        "gen_grant_16_xih"
+      ]
+    },
+    {
+      "ability": "gen_ability_17",
+      "grants": [
+        "gen_grant_17_vqu"
+      ]
+    },
+    {
+      "ability": "gen_ability_18",
+      "grants": [
+        "gen_grant_18_psz",
+        "gen_grant_18_pfe",
+        "gen_grant_18_icp",
+        "gen_grant_18_wbs",
+        "gen_grant_18_mwr",
+        "gen_grant_18_ffp",
+        "gen_grant_18_puj",
+        "gen_grant_18_xzv",
+        "gen_grant_18_lbm"
+      ]
+    },
+    {
+      "ability": "gen_ability_19",
+      "grants": [
+        "gen_grant_19_tty",
+        "gen_grant_19_kxq",
+        "gen_grant_19_yve"
+      ]
+    },
+    {
+      "ability": "gen_ability_20",
+      "grants": [
+        "gen_grant_20_kxb"
+      ]
+    },
+    {
+      "ability": "gen_ability_21",
+      "grants": [
+        "gen_grant_21_iak",
+        "gen_grant_21_lyu",
+        "gen_grant_21_btu",
+        "gen_grant_21_hji",
+        "gen_grant_21_sbk",
+        "gen_grant_21_edb",
+        "gen_grant_21_bbc"
+      ]
+    },
+    {
+      "ability": "gen_ability_22",
+      "grants": [
+        "gen_grant_22_ueh",
+        "gen_grant_22_dit",
+        "gen_grant_22_flh",
+        "gen_grant_22_mne",
+        "gen_grant_22_fqb"
+      ]
+    },
+    {
+      "ability": "gen_ability_23",
+      "grants": [
+        "gen_grant_23_dan",
+        "gen_grant_23_ikq",
+        "gen_grant_23_cdy",
+        "gen_grant_23_cxw",
+        "gen_grant_23_exc",
+        "gen_grant_23_ngr",
+        "gen_grant_23_vbe",
+        "gen_grant_23_crz",
+        "gen_grant_23_jya"
+      ]
+    },
+    {
+      "ability": "gen_ability_24",
+      "grants": [
+        "gen_grant_24_int",
+        "gen_grant_24_qgu",
+        "gen_grant_24_arx",
+        "gen_grant_24_ycm",
+        "gen_grant_24_pbd",
+        "gen_grant_24_utf",
+        "gen_grant_24_zoi",
+        "gen_grant_24_blk"
+      ]
+    },
+    {
+      "ability": "gen_ability_25",
+      "grants": [
+        "gen_grant_25_gvi",
+        "gen_grant_25_puz",
+        "gen_grant_25_kzh",
+        "gen_grant_25_xsq",
+        "gen_grant_25_oif",
+        "gen_grant_25_bnt",
+        "gen_grant_25_jqx",
+        "gen_grant_25_fms",
+        "gen_grant_25_cfn"
+      ]
+    },
+    {
+      "ability": "gen_ability_26",
+      "grants": [
+        "gen_grant_26_ywg",
+        "gen_grant_26_tmz"
+      ]
+    },
+    {
+      "ability": "gen_ability_27",
+      "grants": [
+        "gen_grant_27_zrd",
+        "gen_grant_27_fre",
+        "gen_grant_27_ahl",
+        "gen_grant_27_ztn",
+        "gen_grant_27_ise",
+        "gen_grant_27_nfx",
+        "gen_grant_27_nnq",
+        "gen_grant_27_xgp"
+      ]
+    },
+    {
+      "ability": "gen_ability_28",
+      "grants": [
+        "gen_grant_28_zew",
+        "gen_grant_28_zrg",
+        "gen_grant_28_sbu",
+        "gen_grant_28_cto",
+        "gen_grant_28_mov"
+      ]
+    },
+    {
+      "ability": "gen_ability_29",
+      "grants": [
+        "gen_grant_29_dyk",
+        "gen_grant_29_dpi",
+        "gen_grant_29_ypv",
+        "gen_grant_29_jeu"
+      ]
+    },
+    {
+      "ability": "gen_ability_30",
+      "grants": [
+        "gen_grant_30_isp",
+        "gen_grant_30_xtz",
+        "gen_grant_30_ert",
+        "gen_grant_30_wmw",
+        "gen_grant_30_lia",
+        "gen_grant_30_dvo",
+        "gen_grant_30_jmy"
+      ]
+    },
+    {
+      "ability": "gen_ability_31",
+      "grants": [
+        "gen_grant_31_ouu",
+        "gen_grant_31_nca",
+        "gen_grant_31_osx",
+        "gen_grant_31_qon",
+        "gen_grant_31_pft",
+        "gen_grant_31_ccj",
+        "gen_grant_31_bwi",
+        "gen_grant_31_xml",
+        "gen_grant_31_rcc",
+        "gen_grant_31_khs"
+      ]
+    },
+    {
+      "ability": "gen_ability_32",
+      "grants": [
+        "gen_grant_32_pyu"
+      ]
+    },
+    {
+      "ability": "gen_ability_33",
+      "grants": [
+        "gen_grant_33_elo",
+        "gen_grant_33_egy",
+        "gen_grant_33_jcw",
+        "gen_grant_33_lac",
+        "gen_grant_33_bre",
+        "gen_grant_33_vyv",
+        "gen_grant_33_lwx",
+        "gen_grant_33_aqq",
+        "gen_grant_33_zwd"
+      ]
+    },
+    {
+      "ability": "gen_ability_34",
+      "grants": [
+        "gen_grant_34_nxg",
+        "gen_grant_34_vma",
+        "gen_grant_34_pyf",
+        "gen_grant_34_wqp"
+      ]
+    },
+    {
+      "ability": "gen_ability_35",
+      "grants": [
+        "gen_grant_35_mmk",
+        "gen_grant_35_txk",
+        "gen_grant_35_wsv",
+        "gen_grant_35_qcj"
+      ]
+    },
+    {
+      "ability": "gen_ability_36",
+      "grants": [
+        "gen_grant_36_eev",
+        "gen_grant_36_yxl",
+        "gen_grant_36_ctk",
+        "gen_grant_36_edf",
+        "gen_grant_36_gun",
+        "gen_grant_36_nth",
+        "gen_grant_36_oto",
+        "gen_grant_36_uvz"
+      ]
+    },
+    {
+      "ability": "gen_ability_37",
+      "grants": [
+        "gen_grant_37_cwr",
+        "gen_grant_37_jjr",
+        "gen_grant_37_xmi",
+        "gen_grant_37_nze",
+        "gen_grant_37_kgf",
+        "gen_grant_37_fpz",
+        "gen_grant_37_joy",
+        "gen_grant_37_ahi",
+        "gen_grant_37_kgg",
+        "gen_grant_37_ndn"
+      ]
+    },
+    {
+      "ability": "gen_ability_38",
+      "grants": [
+        "gen_grant_38_bqk",
+        "gen_grant_38_iao",
+        "gen_grant_38_sdj"
+      ]
+    },
+    {
+      "ability": "gen_ability_39",
+      "grants": [
+        "gen_grant_39_xhf",
+        "gen_grant_39_buf",
+        "gen_grant_39_lmj",
+        "gen_grant_39_nnr",
+        "gen_grant_39_kfr",
+        "gen_grant_39_lxm"
+      ]
+    },
+    {
+      "ability": "gen_ability_40",
+      "grants": [
+        "gen_grant_40_jua"
+      ]
+    },
+    {
+      "ability": "gen_ability_41",
+      "grants": [
+        "gen_grant_41_dwj",
+        "gen_grant_41_utn",
+        "gen_grant_41_elt",
+        "gen_grant_41_vpx",
+        "gen_grant_41_wsq"
+      ]
+    },
+    {
+      "ability": "gen_ability_42",
+      "grants": [
+        "gen_grant_42_urw",
+        "gen_grant_42_bno",
+        "gen_grant_42_jcg",
+        "gen_grant_42_wdz",
+        "gen_grant_42_rpg",
+        "gen_grant_42_srz",
+        "gen_grant_42_oim"
+      ]
+    },
+    {
+      "ability": "gen_ability_43",
+      "grants": [
+        "gen_grant_43_yuu",
+        "gen_grant_43_hct",
+        "gen_grant_43_bbh",
+        "gen_grant_43_ywx",
+        "gen_grant_43_sgn",
+        "gen_grant_43_oot",
+        "gen_grant_43_cws",
+        "gen_grant_43_qnm"
+      ]
+    },
+    {
+      "ability": "gen_ability_44",
+      "grants": [
+        "gen_grant_44_wap",
+        "gen_grant_44_jvv",
+        "gen_grant_44_its",
+        "gen_grant_44_bbd",
+        "gen_grant_44_lgh",
+        "gen_grant_44_pud",
+        "gen_grant_44_yzn"
+      ]
+    },
+    {
+      "ability": "gen_ability_45",
+      "grants": [
+        "gen_grant_45_fip",
+        "gen_grant_45_mkw",
+        "gen_grant_45_pcg",
+        "gen_grant_45_whe",
+        "gen_grant_45_cuh",
+        "gen_grant_45_qua"
+      ]
+    },
+    {
+      "ability": "gen_ability_46",
+      "grants": [
+        "gen_grant_46_spn",
+        "gen_grant_46_flr",
+        "gen_grant_46_avy",
+        "gen_grant_46_eqa",
+        "gen_grant_46_wiz",
+        "gen_grant_46_jes"
+      ]
+    },
+    {
+      "ability": "gen_ability_47",
+      "grants": [
+        "gen_grant_47_vzg",
+        "gen_grant_47_viu"
+      ]
+    },
+    {
+      "ability": "gen_ability_48",
+      "grants": [
+        "gen_grant_48_dmh",
+        "gen_grant_48_tvc",
+        "gen_grant_48_hat",
+        "gen_grant_48_qoo",
+        "gen_grant_48_tbw",
+        "gen_grant_48_dao"
+      ]
+    },
+    {
+      "ability": "gen_ability_49",
+      "grants": [
+        "gen_grant_49_fof"
+      ]
+    },
+    {
+      "ability": "gen_ability_50",
+      "grants": [
+        "gen_grant_50_eyk",
+        "gen_grant_50_wtl",
+        "gen_grant_50_npj",
+        "gen_grant_50_exa",
+        "gen_grant_50_yfl",
+        "gen_grant_50_snz"
+      ]
+    },
+    {
+      "ability": "gen_ability_51",
+      "grants": [
+        "gen_grant_51_ssp",
+        "gen_grant_51_lup",
+        "gen_grant_51_vxp"
+      ]
+    },
+    {
+      "ability": "gen_ability_52",
+      "grants": [
+        "gen_grant_52_txc",
+        "gen_grant_52_ngi",
+        "gen_grant_52_wmc",
+        "gen_grant_52_szu"
+      ]
+    },
+    {
+      "ability": "gen_ability_53",
+      "grants": [
+        "gen_grant_53_fqd",
+        "gen_grant_53_avl",
+        "gen_grant_53_cnb",
+        "gen_grant_53_oru"
+      ]
+    },
+    {
+      "ability": "gen_ability_54",
+      "grants": [
+        "gen_grant_54_jum",
+        "gen_grant_54_duj",
+        "gen_grant_54_tkm",
+        "gen_grant_54_flo",
+        "gen_grant_54_eni",
+        "gen_grant_54_sgo",
+        "gen_grant_54_rge",
+        "gen_grant_54_ttp",
+        "gen_grant_54_drb",
+        "gen_grant_54_ehw"
+      ]
+    },
+    {
+      "ability": "gen_ability_55",
+      "grants": [
+        "gen_grant_55_jzs",
+        "gen_grant_55_dtd"
+      ]
+    },
+    {
+      "ability": "gen_ability_56",
+      "grants": [
+        "gen_grant_56_pqf",
+        "gen_grant_56_neu",
+        "gen_grant_56_tiq",
+        "gen_grant_56_alw",
+        "gen_grant_56_cyo",
+        "gen_grant_56_dcb"
+      ]
+    },
+    {
+      "ability": "gen_ability_57",
+      "grants": [
+        "gen_grant_57_wcp",
+        "gen_grant_57_zjt",
+        "gen_grant_57_ofz",
+        "gen_grant_57_lrg",
+        "gen_grant_57_eox",
+        "gen_grant_57_yhk",
+        "gen_grant_57_qur",
+        "gen_grant_57_dgj",
+        "gen_grant_57_jzr",
+        "gen_grant_57_wov"
+      ]
+    },
+    {
+      "ability": "gen_ability_58",
+      "grants": [
+        "gen_grant_58_tix",
+        "gen_grant_58_tiz",
+        "gen_grant_58_nmx",
+        "gen_grant_58_nlg",
+        "gen_grant_58_trb",
+        "gen_grant_58_qpd",
+        "gen_grant_58_xqr"
+      ]
+    },
+    {
+      "ability": "gen_ability_59",
+      "grants": [
+        "gen_grant_59_cmf",
+        "gen_grant_59_evs",
+        "gen_grant_59_cza",
+        "gen_grant_59_esa",
+        "gen_grant_59_rgt"
+      ]
+    },
+    {
+      "ability": "gen_ability_60",
+      "grants": [
+        "gen_grant_60_yop",
+        "gen_grant_60_xux",
+        "gen_grant_60_uuv",
+        "gen_grant_60_tgg",
+        "gen_grant_60_qyg",
+        "gen_grant_60_jiu",
+        "gen_grant_60_xrs",
+        "gen_grant_60_oev",
+        "gen_grant_60_alf",
+        "gen_grant_60_kkc"
+      ]
+    },
+    {
+      "ability": "gen_ability_61",
+      "grants": [
+        "gen_grant_61_mek",
+        "gen_grant_61_lkz",
+        "gen_grant_61_fey",
+        "gen_grant_61_wkk",
+        "gen_grant_61_bgd",
+        "gen_grant_61_mlm",
+        "gen_grant_61_wag",
+        "gen_grant_61_yfa",
+        "gen_grant_61_jwf"
+      ]
+    },
+    {
+      "ability": "gen_ability_62",
+      "grants": [
+        "gen_grant_62_zbl",
+        "gen_grant_62_gcb",
+        "gen_grant_62_kpk",
+        "gen_grant_62_jqy",
+        "gen_grant_62_muv",
+        "gen_grant_62_ehd",
+        "gen_grant_62_oos",
+        "gen_grant_62_gtg",
+        "gen_grant_62_yzj",
+        "gen_grant_62_zjs"
+      ]
+    },
+    {
+      "ability": "gen_ability_63",
+      "grants": [
+        "gen_grant_63_eue",
+        "gen_grant_63_xjz",
+        "gen_grant_63_ztf"
+      ]
+    },
+    {
+      "ability": "gen_ability_64",
+      "grants": [
+        "gen_grant_64_moq",
+        "gen_grant_64_luj",
+        "gen_grant_64_fpk",
+        "gen_grant_64_sge",
+        "gen_grant_64_ivz",
+        "gen_grant_64_mnp",
+        "gen_grant_64_ged"
+      ]
+    },
+    {
+      "ability": "gen_ability_65",
+      "grants": [
+        "gen_grant_65_cod"
+      ]
+    },
+    {
+      "ability": "gen_ability_66",
+      "grants": [
+        "gen_grant_66_syb",
+        "gen_grant_66_may",
+        "gen_grant_66_sjn",
+        "gen_grant_66_rij",
+        "gen_grant_66_eat",
+        "gen_grant_66_xao",
+        "gen_grant_66_tpc",
+        "gen_grant_66_hzp"
+      ]
+    },
+    {
+      "ability": "gen_ability_67",
+      "grants": [
+        "gen_grant_67_tdb",
+        "gen_grant_67_rsw",
+        "gen_grant_67_jlm",
+        "gen_grant_67_ekw"
+      ]
+    },
+    {
+      "ability": "gen_ability_68",
+      "grants": [
+        "gen_grant_68_hmt"
+      ]
+    },
+    {
+      "ability": "gen_ability_69",
+      "grants": [
+        "gen_grant_69_ypq"
+      ]
+    },
+    {
+      "ability": "gen_ability_70",
+      "grants": [
+        "gen_grant_70_alu",
+        "gen_grant_70_enp",
+        "gen_grant_70_acy",
+        "gen_grant_70_wsi",
+        "gen_grant_70_bbp",
+        "gen_grant_70_cvb"
+      ]
+    },
+    {
+      "ability": "gen_ability_71",
+      "grants": [
+        "gen_grant_71_grl",
+        "gen_grant_71_kor",
+        "gen_grant_71_qxd",
+        "gen_grant_71_flf",
+        "gen_grant_71_sii",
+        "gen_grant_71_deo"
+      ]
+    },
+    {
+      "ability": "gen_ability_72",
+      "grants": [
+        "gen_grant_72_rvm",
+        "gen_grant_72_duz",
+        "gen_grant_72_oav",
+        "gen_grant_72_xdh",
+        "gen_grant_72_pua",
+        "gen_grant_72_lte"
+      ]
+    },
+    {
+      "ability": "gen_ability_73",
+      "grants": [
+        "gen_grant_73_hog"
+      ]
+    },
+    {
+      "ability": "gen_ability_74",
+      "grants": [
+        "gen_grant_74_coz",
+        "gen_grant_74_fxe",
+        "gen_grant_74_fky",
+        "gen_grant_74_cpz",
+        "gen_grant_74_stv",
+        "gen_grant_74_pay"
+      ]
+    },
+    {
+      "ability": "gen_ability_75",
+      "grants": [
+        "gen_grant_75_ikq",
+        "gen_grant_75_zda",
+        "gen_grant_75_pss",
+        "gen_grant_75_ttw",
+        "gen_grant_75_wfz",
+        "gen_grant_75_cbi",
+        "gen_grant_75_nea"
+      ]
+    },
+    {
+      "ability": "gen_ability_76",
+      "grants": [
+        "gen_grant_76_nyl",
+        "gen_grant_76_pnk",
+        "gen_grant_76_plo",
+        "gen_grant_76_yet",
+        "gen_grant_76_pst",
+        "gen_grant_76_bna",
+        "gen_grant_76_pzt"
+      ]
+    },
+    {
+      "ability": "gen_ability_77",
+      "grants": [
+        "gen_grant_77_qsu",
+        "gen_grant_77_cqk",
+        "gen_grant_77_scd",
+        "gen_grant_77_gow",
+        "gen_grant_77_wwq",
+        "gen_grant_77_val",
+        "gen_grant_77_ebo",
+        "gen_grant_77_usp",
+        "gen_grant_77_bqk"
+      ]
+    },
+    {
+      "ability": "gen_ability_78",
+      "grants": [
+        "gen_grant_78_pkp",
+        "gen_grant_78_prp",
+        "gen_grant_78_qks",
+        "gen_grant_78_mui"
+      ]
+    },
+    {
+      "ability": "gen_ability_79",
+      "grants": [
+        "gen_grant_79_lya",
+        "gen_grant_79_anb",
+        "gen_grant_79_gcv",
+        "gen_grant_79_flz",
+        "gen_grant_79_mxq",
+        "gen_grant_79_mup",
+        "gen_grant_79_bff",
+        "gen_grant_79_nwf"
+      ]
+    },
+    {
+      "ability": "gen_ability_80",
+      "grants": [
+        "gen_grant_80_pdt",
+        "gen_grant_80_boy",
+        "gen_grant_80_kmv",
+        "gen_grant_80_ejj",
+        "gen_grant_80_kny",
+        "gen_grant_80_xkp",
+        "gen_grant_80_jyo"
+      ]
+    },
+    {
+      "ability": "gen_ability_81",
+      "grants": [
+        "gen_grant_81_acl",
+        "gen_grant_81_hot",
+        "gen_grant_81_zxi",
+        "gen_grant_81_zwm",
+        "gen_grant_81_usq",
+        "gen_grant_81_xuk",
+        "gen_grant_81_vbg",
+        "gen_grant_81_rkt"
+      ]
+    },
+    {
+      "ability": "gen_ability_82",
+      "grants": [
+        "gen_grant_82_yll",
+        "gen_grant_82_wyg",
+        "gen_grant_82_hbi",
+        "gen_grant_82_lky",
+        "gen_grant_82_ocj",
+        "gen_grant_82_zpz"
+      ]
+    },
+    {
+      "ability": "gen_ability_83",
+      "grants": [
+        "gen_grant_83_vwn",
+        "gen_grant_83_jdl",
+        "gen_grant_83_bcz",
+        "gen_grant_83_ibm",
+        "gen_grant_83_nua",
+        "gen_grant_83_esz",
+        "gen_grant_83_tpp"
+      ]
+    },
+    {
+      "ability": "gen_ability_84",
+      "grants": [
+        "gen_grant_84_ify",
+        "gen_grant_84_rls",
+        "gen_grant_84_qrt",
+        "gen_grant_84_vfj",
+        "gen_grant_84_ose",
+        "gen_grant_84_zdq",
+        "gen_grant_84_tav",
+        "gen_grant_84_isu",
+        "gen_grant_84_tqn"
+      ]
+    },
+    {
+      "ability": "gen_ability_85",
+      "grants": [
+        "gen_grant_85_nyh"
+      ]
+    },
+    {
+      "ability": "gen_ability_86",
+      "grants": [
+        "gen_grant_86_skl",
+        "gen_grant_86_gwl",
+        "gen_grant_86_gcf",
+        "gen_grant_86_edn",
+        "gen_grant_86_vpj",
+        "gen_grant_86_awx"
+      ]
+    },
+    {
+      "ability": "gen_ability_87",
+      "grants": [
+        "gen_grant_87_yuh",
+        "gen_grant_87_api"
+      ]
+    },
+    {
+      "ability": "gen_ability_88",
+      "grants": [
+        "gen_grant_88_cbi",
+        "gen_grant_88_txp",
+        "gen_grant_88_icq",
+        "gen_grant_88_bee",
+        "gen_grant_88_aiy",
+        "gen_grant_88_oze"
+      ]
+    },
+    {
+      "ability": "gen_ability_89",
+      "grants": [
+        "gen_grant_89_kzn",
+        "gen_grant_89_qpt",
+        "gen_grant_89_int",
+        "gen_grant_89_xbr",
+        "gen_grant_89_nee",
+        "gen_grant_89_uwi",
+        "gen_grant_89_lxm",
+        "gen_grant_89_elf"
+      ]
+    },
+    {
+      "ability": "gen_ability_90",
+      "grants": [
+        "gen_grant_90_lrp",
+        "gen_grant_90_ycy",
+        "gen_grant_90_zaa",
+        "gen_grant_90_dzg",
+        "gen_grant_90_uxc",
+        "gen_grant_90_iny"
+      ]
+    },
+    {
+      "ability": "gen_ability_91",
+      "grants": [
+        "gen_grant_91_adt",
+        "gen_grant_91_oyc"
+      ]
+    },
+    {
+      "ability": "gen_ability_92",
+      "grants": [
+        "gen_grant_92_ujs",
+        "gen_grant_92_dlj",
+        "gen_grant_92_hyg"
+      ]
+    },
+    {
+      "ability": "gen_ability_93",
+      "grants": [
+        "gen_grant_93_bgr"
+      ]
+    },
+    {
+      "ability": "gen_ability_94",
+      "grants": [
+        "gen_grant_94_jsp"
+      ]
+    },
+    {
+      "ability": "gen_ability_95",
+      "grants": [
+        "gen_grant_95_jfz",
+        "gen_grant_95_izz",
+        "gen_grant_95_xtn",
+        "gen_grant_95_ntu",
+        "gen_grant_95_nes",
+        "gen_grant_95_opb",
+        "gen_grant_95_jyg",
+        "gen_grant_95_oso"
+      ]
+    },
+    {
+      "ability": "gen_ability_96",
+      "grants": [
+        "gen_grant_96_afn",
+        "gen_grant_96_efo",
+        "gen_grant_96_ayg"
+      ]
+    },
+    {
+      "ability": "gen_ability_97",
+      "grants": [
+        "gen_grant_97_anz"
+      ]
+    },
+    {
+      "ability": "gen_ability_98",
+      "grants": [
+        "gen_grant_98_xym",
+        "gen_grant_98_pbu",
+        "gen_grant_98_evd",
+        "gen_grant_98_bbw",
+        "gen_grant_98_zkz",
+        "gen_grant_98_ion",
+        "gen_grant_98_nco"
+      ]
+    },
+    {
+      "ability": "gen_ability_99",
+      "grants": [
+        "gen_grant_99_wzw",
+        "gen_grant_99_qpg",
+        "gen_grant_99_kbw",
+        "gen_grant_99_qri",
+        "gen_grant_99_wof"
+      ]
+    },
+    {
+      "ability": "gen_ability_100",
+      "grants": [
+        "gen_grant_100_juy",
+        "gen_grant_100_mxj",
+        "gen_grant_100_hqt",
+        "gen_grant_100_fci",
+        "gen_grant_100_hci",
+        "gen_grant_100_odz"
+      ]
+    },
+    {
+      "ability": "gen_ability_101",
+      "grants": [
+        "gen_grant_101_onj",
+        "gen_grant_101_uol",
+        "gen_grant_101_ryk",
+        "gen_grant_101_sbt"
+      ]
+    },
+    {
+      "ability": "gen_ability_102",
+      "grants": [
+        "gen_grant_102_cbf",
+        "gen_grant_102_zrr",
+        "gen_grant_102_amy",
+        "gen_grant_102_idp",
+        "gen_grant_102_muk",
+        "gen_grant_102_uwi",
+        "gen_grant_102_dmz"
+      ]
+    },
+    {
+      "ability": "gen_ability_103",
+      "grants": [
+        "gen_grant_103_yhk",
+        "gen_grant_103_xgy",
+        "gen_grant_103_jdd",
+        "gen_grant_103_xyi",
+        "gen_grant_103_njf",
+        "gen_grant_103_fmy",
+        "gen_grant_103_zcf",
+        "gen_grant_103_yvs",
+        "gen_grant_103_ops",
+        "gen_grant_103_luq"
+      ]
+    },
+    {
+      "ability": "gen_ability_104",
+      "grants": [
+        "gen_grant_104_rev",
+        "gen_grant_104_klj",
+        "gen_grant_104_uxz",
+        "gen_grant_104_nbw",
+        "gen_grant_104_umj",
+        "gen_grant_104_amy",
+        "gen_grant_104_bhs"
+      ]
+    },
+    {
+      "ability": "gen_ability_105",
+      "grants": [
+        "gen_grant_105_zga",
+        "gen_grant_105_dep",
+        "gen_grant_105_dgz",
+        "gen_grant_105_wvw",
+        "gen_grant_105_fcx",
+        "gen_grant_105_hzh",
+        "gen_grant_105_vxf",
+        "gen_grant_105_vbf",
+        "gen_grant_105_ogu",
+        "gen_grant_105_ark"
+      ]
+    },
+    {
+      "ability": "gen_ability_106",
+      "grants": [
+        "gen_grant_106_rup",
+        "gen_grant_106_wro"
+      ]
+    },
+    {
+      "ability": "gen_ability_107",
+      "grants": [
+        "gen_grant_107_nvm",
+        "gen_grant_107_iuv",
+        "gen_grant_107_vlc",
+        "gen_grant_107_ssz",
+        "gen_grant_107_rdj"
+      ]
+    },
+    {
+      "ability": "gen_ability_108",
+      "grants": [
+        "gen_grant_108_ovr",
+        "gen_grant_108_zcs",
+        "gen_grant_108_sbt",
+        "gen_grant_108_bat",
+        "gen_grant_108_dmu",
+        "gen_grant_108_rnr"
+      ]
+    },
+    {
+      "ability": "gen_ability_109",
+      "grants": [
+        "gen_grant_109_var",
+        "gen_grant_109_dgk",
+        "gen_grant_109_ovn",
+        "gen_grant_109_agj",
+        "gen_grant_109_rbw",
+        "gen_grant_109_dgg",
+        "gen_grant_109_vrt"
+      ]
+    },
+    {
+      "ability": "gen_ability_110",
+      "grants": [
+        "gen_grant_110_lhu",
+        "gen_grant_110_rhr",
+        "gen_grant_110_mvn",
+        "gen_grant_110_ozv",
+        "gen_grant_110_rko",
+        "gen_grant_110_gfu"
+      ]
+    },
+    {
+      "ability": "gen_ability_111",
+      "grants": [
+        "gen_grant_111_ama",
+        "gen_grant_111_ejj",
+        "gen_grant_111_iol",
+        "gen_grant_111_ahd"
+      ]
+    },
+    {
+      "ability": "gen_ability_112",
+      "grants": [
+        "gen_grant_112_dro",
+        "gen_grant_112_bic",
+        "gen_grant_112_umr",
+        "gen_grant_112_cms",
+        "gen_grant_112_syv",
+        "gen_grant_112_esk",
+        "gen_grant_112_qev",
+        "gen_grant_112_ykw"
+      ]
+    },
+    {
+      "ability": "gen_ability_113",
+      "grants": [
+        "gen_grant_113_pns",
+        "gen_grant_113_exn",
+        "gen_grant_113_pqw",
+        "gen_grant_113_pwy",
+        "gen_grant_113_ofl",
+        "gen_grant_113_tla",
+        "gen_grant_113_kgd",
+        "gen_grant_113_lwa",
+        "gen_grant_113_yfx",
+        "gen_grant_113_lik"
+      ]
+    },
+    {
+      "ability": "gen_ability_114",
+      "grants": [
+        "gen_grant_114_vhe",
+        "gen_grant_114_vvn",
+        "gen_grant_114_rno",
+        "gen_grant_114_npi",
+        "gen_grant_114_fes",
+        "gen_grant_114_ugi",
+        "gen_grant_114_cns",
+        "gen_grant_114_dhu",
+        "gen_grant_114_bnu",
+        "gen_grant_114_zoh"
+      ]
+    },
+    {
+      "ability": "gen_ability_115",
+      "grants": [
+        "gen_grant_115_nja",
+        "gen_grant_115_pbf",
+        "gen_grant_115_fwc",
+        "gen_grant_115_bpk",
+        "gen_grant_115_yin"
+      ]
+    },
+    {
+      "ability": "gen_ability_116",
+      "grants": [
+        "gen_grant_116_zwm",
+        "gen_grant_116_emh",
+        "gen_grant_116_tqm",
+        "gen_grant_116_sbr",
+        "gen_grant_116_tkq",
+        "gen_grant_116_vws",
+        "gen_grant_116_vtu",
+        "gen_grant_116_dqz"
+      ]
+    },
+    {
+      "ability": "gen_ability_117",
+      "grants": [
+        "gen_grant_117_rtf",
+        "gen_grant_117_lbh",
+        "gen_grant_117_ein",
+        "gen_grant_117_bkg",
+        "gen_grant_117_axm"
+      ]
+    },
+    {
+      "ability": "gen_ability_118",
+      "grants": [
+        "gen_grant_118_izt",
+        "gen_grant_118_dvt",
+        "gen_grant_118_njv",
+        "gen_grant_118_nmd"
+      ]
+    },
+    {
+      "ability": "gen_ability_119",
+      "grants": [
+        "gen_grant_119_qvb",
+        "gen_grant_119_xmb",
+        "gen_grant_119_lnq",
+        "gen_grant_119_cwc",
+        "gen_grant_119_ttj",
+        "gen_grant_119_nsn",
+        "gen_grant_119_yjz",
+        "gen_grant_119_xpc"
+      ]
+    },
+    {
+      "ability": "gen_ability_120",
+      "grants": [
+        "gen_grant_120_dnq",
+        "gen_grant_120_erx",
+        "gen_grant_120_eyn",
+        "gen_grant_120_iil"
+      ]
+    },
+    {
+      "ability": "gen_ability_121",
+      "grants": [
+        "gen_grant_121_gfd",
+        "gen_grant_121_qum",
+        "gen_grant_121_smm",
+        "gen_grant_121_sdx",
+        "gen_grant_121_dyf",
+        "gen_grant_121_yds",
+        "gen_grant_121_bgd",
+        "gen_grant_121_ktj",
+        "gen_grant_121_vcq",
+        "gen_grant_121_ngy"
+      ]
+    },
+    {
+      "ability": "gen_ability_122",
+      "grants": [
+        "gen_grant_122_oww",
+        "gen_grant_122_peh",
+        "gen_grant_122_yaw",
+        "gen_grant_122_inv",
+        "gen_grant_122_tdo",
+        "gen_grant_122_qvk"
+      ]
+    },
+    {
+      "ability": "gen_ability_123",
+      "grants": [
+        "gen_grant_123_lzn",
+        "gen_grant_123_luq",
+        "gen_grant_123_kuc",
+        "gen_grant_123_xiz"
+      ]
+    },
+    {
+      "ability": "gen_ability_124",
+      "grants": [
+        "gen_grant_124_tuw",
+        "gen_grant_124_lwn",
+        "gen_grant_124_ysm",
+        "gen_grant_124_cpa",
+        "gen_grant_124_utk",
+        "gen_grant_124_uyx",
+        "gen_grant_124_ush"
+      ]
+    },
+    {
+      "ability": "gen_ability_125",
+      "grants": [
+        "gen_grant_125_hkz"
+      ]
+    },
+    {
+      "ability": "gen_ability_126",
+      "grants": [
+        "gen_grant_126_ofa"
+      ]
+    },
+    {
+      "ability": "gen_ability_127",
+      "grants": [
+        "gen_grant_127_fys",
+        "gen_grant_127_res",
+        "gen_grant_127_wqn",
+        "gen_grant_127_vvd",
+        "gen_grant_127_tkf"
+      ]
+    },
+    {
+      "ability": "gen_ability_128",
+      "grants": [
+        "gen_grant_128_njw",
+        "gen_grant_128_rys",
+        "gen_grant_128_kqs",
+        "gen_grant_128_zut",
+        "gen_grant_128_bzl",
+        "gen_grant_128_gvc",
+        "gen_grant_128_yzs",
+        "gen_grant_128_zik",
+        "gen_grant_128_hxe"
+      ]
+    },
+    {
+      "ability": "gen_ability_129",
+      "grants": [
+        "gen_grant_129_mwg",
+        "gen_grant_129_jle",
+        "gen_grant_129_dyu",
+        "gen_grant_129_ffy",
+        "gen_grant_129_pov",
+        "gen_grant_129_yyb"
+      ]
+    },
+    {
+      "ability": "gen_ability_130",
+      "grants": [
+        "gen_grant_130_hwl",
+        "gen_grant_130_auj",
+        "gen_grant_130_idr",
+        "gen_grant_130_qku",
+        "gen_grant_130_lkj",
+        "gen_grant_130_xiw"
+      ]
+    },
+    {
+      "ability": "gen_ability_131",
+      "grants": [
+        "gen_grant_131_sqg",
+        "gen_grant_131_pnp",
+        "gen_grant_131_ccm",
+        "gen_grant_131_mcp"
+      ]
+    },
+    {
+      "ability": "gen_ability_132",
+      "grants": [
+        "gen_grant_132_skg",
+        "gen_grant_132_gym",
+        "gen_grant_132_zgv"
+      ]
+    },
+    {
+      "ability": "gen_ability_133",
+      "grants": [
+        "gen_grant_133_ojj",
+        "gen_grant_133_lrl",
+        "gen_grant_133_vbj",
+        "gen_grant_133_suc",
+        "gen_grant_133_san",
+        "gen_grant_133_mnm",
+        "gen_grant_133_dcp",
+        "gen_grant_133_xaz"
+      ]
+    },
+    {
+      "ability": "gen_ability_134",
+      "grants": [
+        "gen_grant_134_ucb",
+        "gen_grant_134_vyr",
+        "gen_grant_134_qnv",
+        "gen_grant_134_anz",
+        "gen_grant_134_jvd"
+      ]
+    },
+    {
+      "ability": "gen_ability_135",
+      "grants": [
+        "gen_grant_135_kkn",
+        "gen_grant_135_zix",
+        "gen_grant_135_lyl",
+        "gen_grant_135_ewt",
+        "gen_grant_135_efw",
+        "gen_grant_135_ifd"
+      ]
+    },
+    {
+      "ability": "gen_ability_136",
+      "grants": [
+        "gen_grant_136_bil",
+        "gen_grant_136_dfl",
+        "gen_grant_136_syj"
+      ]
+    },
+    {
+      "ability": "gen_ability_137",
+      "grants": [
+        "gen_grant_137_frs",
+        "gen_grant_137_mqn",
+        "gen_grant_137_bdz",
+        "gen_grant_137_vko",
+        "gen_grant_137_rqg",
+        "gen_grant_137_meu",
+        "gen_grant_137_wjq",
+        "gen_grant_137_dpt"
+      ]
+    },
+    {
+      "ability": "gen_ability_138",
+      "grants": [
+        "gen_grant_138_qxv",
+        "gen_grant_138_hbl",
+        "gen_grant_138_vyu",
+        "gen_grant_138_prc",
+        "gen_grant_138_bgq",
+        "gen_grant_138_tmp",
+        "gen_grant_138_ckx",
+        "gen_grant_138_jid",
+        "gen_grant_138_ioh",
+        "gen_grant_138_ccl"
+      ]
+    },
+    {
+      "ability": "gen_ability_139",
+      "grants": [
+        "gen_grant_139_axc",
+        "gen_grant_139_yis",
+        "gen_grant_139_vwe",
+        "gen_grant_139_btm",
+        "gen_grant_139_jzb",
+        "gen_grant_139_dnw",
+        "gen_grant_139_mlh"
+      ]
+    },
+    {
+      "ability": "gen_ability_140",
+      "grants": [
+        "gen_grant_140_tdg",
+        "gen_grant_140_lcb",
+        "gen_grant_140_htd",
+        "gen_grant_140_wlf",
+        "gen_grant_140_cmu",
+        "gen_grant_140_rhg",
+        "gen_grant_140_vsk"
+      ]
+    },
+    {
+      "ability": "gen_ability_141",
+      "grants": [
+        "gen_grant_141_ukr",
+        "gen_grant_141_boa",
+        "gen_grant_141_fdy",
+        "gen_grant_141_ejf",
+        "gen_grant_141_vvc",
+        "gen_grant_141_cyf",
+        "gen_grant_141_njb",
+        "gen_grant_141_xej"
+      ]
+    },
+    {
+      "ability": "gen_ability_142",
+      "grants": [
+        "gen_grant_142_ixm",
+        "gen_grant_142_agx",
+        "gen_grant_142_ypy",
+        "gen_grant_142_hvk",
+        "gen_grant_142_gtr",
+        "gen_grant_142_zyz"
+      ]
+    },
+    {
+      "ability": "gen_ability_143",
+      "grants": [
+        "gen_grant_143_vzp"
+      ]
+    },
+    {
+      "ability": "gen_ability_144",
+      "grants": [
+        "gen_grant_144_gpe",
+        "gen_grant_144_qla",
+        "gen_grant_144_xnm",
+        "gen_grant_144_byt",
+        "gen_grant_144_ude",
+        "gen_grant_144_mlo"
+      ]
+    },
+    {
+      "ability": "gen_ability_145",
+      "grants": [
+        "gen_grant_145_bya",
+        "gen_grant_145_hro",
+        "gen_grant_145_nlx",
+        "gen_grant_145_zgl",
+        "gen_grant_145_wvd",
+        "gen_grant_145_tor",
+        "gen_grant_145_uqx",
+        "gen_grant_145_kxw"
+      ]
+    },
+    {
+      "ability": "gen_ability_146",
+      "grants": [
+        "gen_grant_146_fhm",
+        "gen_grant_146_eab",
+        "gen_grant_146_nbm",
+        "gen_grant_146_kxz",
+        "gen_grant_146_ekt",
+        "gen_grant_146_wmv"
+      ]
+    },
+    {
+      "ability": "gen_ability_147",
+      "grants": [
+        "gen_grant_147_qsd",
+        "gen_grant_147_rej",
+        "gen_grant_147_mio",
+        "gen_grant_147_biz",
+        "gen_grant_147_pss",
+        "gen_grant_147_wby",
+        "gen_grant_147_unw"
+      ]
+    },
+    {
+      "ability": "gen_ability_148",
+      "grants": [
+        "gen_grant_148_ooq",
+        "gen_grant_148_hwe",
+        "gen_grant_148_zjq",
+        "gen_grant_148_eac",
+        "gen_grant_148_yvq"
+      ]
+    },
+    {
+      "ability": "gen_ability_149",
+      "grants": [
+        "gen_grant_149_mqh",
+        "gen_grant_149_ibp",
+        "gen_grant_149_wds",
+        "gen_grant_149_ghc"
+      ]
+    }
+  ]
+}
